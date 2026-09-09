@@ -1,3 +1,9 @@
 .directory
 .megaignore
 .debris/tmp/lock
+
+# Build artifacts
+src/bin/
+src/obj/
+*.user
+*.suo
